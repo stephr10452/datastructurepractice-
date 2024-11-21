@@ -68,7 +68,13 @@ const newArray = ['apples' , 'bananas', 'cherry']
 // const newArr = newArray.splice(1,2,'orange');
 // console.log(newArr)
 
-const flatEx = [1,[2,3],[[4,5],6]]
+// const flatEx = [1,[2,3],[[4,5],6]]
 
-const flattenedArray = flatEx.flat(1)
-console.log(flattenedArray)
+// const flattenedArray = flatEx.flat(1)
+// console.log(flattenedArray)
+
+// const unsorted = [ 5,2,10,7,3,1];
+
+// unsorted.sort((a,b)=>a-b)
+
+// console.log(unsorted)
